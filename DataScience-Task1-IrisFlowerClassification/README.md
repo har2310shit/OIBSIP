@@ -43,9 +43,6 @@ DataScience-Task1-IrisFlowerClassification/
 │── Iris_Flower_Classification.ipynb
 │── README.md
 │── requirements.txt
-│── screenshots/
-└── outputs/
-```
 
 ## Results
 The final model and its performance metrics will be added after completing the project.
